@@ -1,5 +1,5 @@
 <h1>Hello World! I am Jeziel Honorato</h1>
-<h3>Computer science student from Brazil, IFRN.</h3>
+<h3>BIT student from Brazil, IFRN.</h3>
 
 <h3>social media:</h4>
 <section style='display: flex'>
@@ -11,7 +11,7 @@
 <br>
 
 <h3>About me:</h3>
-<p>- 🌱 Currently, I am attending high school with an integrated technical course in computer science at IFRN - Federal Institute of Education, Science, and Technology of Rio Grande do Norte</p>
+<p>- 🌱 I am currently studying for a Bachelor's degree in Information Technology at UFRN – Federal University of Rio Grande do Norte</p>
 <p>- 🔭 I work in an office, but I don't think it's my field. Currently, I'm studying to figure out where I fit best. I suspect it might be in the programming field because here I feel good pushing my limits.</p>
 <p>- 👯 I'm looking to explore and learn new languages and technologies because this is a vast market. So, before diving in headfirst, I'm checking out a bit of everything to get a sense of what to focus on.</p>
 <p>- 📫 You may also contact me via email: <strong>Jezielh.ss@gmail.com</strong></p>
